@@ -163,4 +163,5 @@ Cost vs Revenue Alignment: Guided budget planning and operational efficiency.
 
 📬 Contact
 LinkedIn: https://www.linkedin.com/in/syed-ibraheem-900b50222/
+
 Email: syedibrahim1@gmail.com
